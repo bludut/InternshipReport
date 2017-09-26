@@ -1,0 +1,11 @@
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\bin\Debug\UART_GUI.exe.config
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\bin\Debug\UART_GUI.exe
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\bin\Debug\UART_GUI.pdb
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.csprojResolveAssemblyReference.cache
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.Form1.resources
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.Properties.Resources.resources
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.csproj.GenerateResource.Cache
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.exe
+C:\Users\OGUZSEN\Desktop\STAJ-2017-Fatih_KAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.pdb
+C:\Users\Fatih_kaya\Desktop\Staj Raporu\staj_2017_FatihKAYA\WS_Workspace\UART_GUI\UART_GUI\bin\Debug\UART_GUI.exe.config
+C:\Users\Fatih_kaya\Desktop\Staj Raporu\staj_2017_FatihKAYA\WS_Workspace\UART_GUI\UART_GUI\obj\Debug\UART_GUI.pdb

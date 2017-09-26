@@ -1,0 +1,21 @@
+-- Ilk sayfa : 
+	ogrencinin kimligi
+				   bolumu
+				   numarasi
+				   senesi
+	Staj yapilan yerin adi
+	Staja baslama ve bitirme tarihleri
+	*** Ilk sayfa staj yerindeki yetkililer tarafindan imzalanip kaselenmeli
+-- Ikinci sayfa :
+	Icindekiler sayfa numaralari ile
+-- Devaminda
+	Staj yerinin acik adresi
+	bagli oldugu kurumun yonetim semasi
+	Staj yerinin teknik tanitimi
+-- Haftalik olarak calisilan birimler belirtilir
+-- Uygun gorulen konular sirasi ile anlatilir
+-- Sadece teknik bilgi yer almamali, is yasami ve sosyal iliskilere de deginilmeli
+-- Rapor karton bir kapak ile ciltlenerek bolume teslim edilir
+-- Ingilizce olmali
+	
+	
